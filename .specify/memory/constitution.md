@@ -97,4 +97,4 @@ Amendments, versioning, and compliance expectations:
 	violations are recorded in the complexity tracking table in the plan and must include
 	a remediation path.
 
-**Version**: 1.0.0 | **Ratified**: TODO(RATIFICATION_DATE): set original adoption date | **Last Amended**: 2025-09-21
+**Version**: 1.0.0 | **Ratified**: 2025-09-21 | **Last Amended**: 2025-09-21
